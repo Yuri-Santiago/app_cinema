@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+}
+
+.box {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.black {
+    color: black;
+}
+.back-red {
+    background-color: #de0505;
+}
+.limitar {
+    width: 400px;
+}
